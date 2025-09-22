@@ -1,5 +1,6 @@
 @import "tailwindcss";
 
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -18,6 +19,10 @@
     --foreground: #ededed;
   }
 }
+#__next .next-dev-overlay {
+  display: none !important;
+}
+
 
 body {
   background: var(--background);
