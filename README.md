@@ -6,6 +6,7 @@ This project is a Next.js landing page where I replicated designs and interactiv
 - Hero section with interactive diagonal lines that follow the cursor.
 - Pop-up contact form that appears 3 seconds after page load.
 - Slider section for images.
+- Background Video: Full-screen video background with transparent play button. Clicking anywhere on the video toggles play/pause. Play button scales on hover and disappears when video is playing.
 - Footer section with Blogs & News (frontend only, no backend).
 - SEO-friendly tags applied throughout the project.
 
