@@ -6,6 +6,7 @@ import HeroSection from "./components/HeroSection";
 import Sliders from "./components/Sliders";
 import Footer from "./components/Footer";
 import PopupContact from "./components/PopupContact";
+import VideoSection from "./components/VideoSection";
 
 
 
@@ -28,6 +29,7 @@ function Page() {
         
       </div>
       <Sliders/>
+      <VideoSection/>
       <Footer/>
       <PopupContact/>
 
